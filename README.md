@@ -1,4 +1,4 @@
 # myuniversity-demo
 this is my first git repository.
 <br>
-Author - Shelly 
+Author - Shelly (AI expert)
